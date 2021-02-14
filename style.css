@@ -1,0 +1,169 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    width: 100%;
+    margin-top: 10px;
+    height: 70px;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header-left{
+    float: left;
+}
+
+.header-right a{
+    float: right;
+    text-decoration: none;
+    color: #292929;
+    font-size: 20px;
+    padding: 0px 25px;
+    margin-top: 20px;
+}
+
+.top-wrapper{
+    height: 600px;
+    padding: 50px 0px 50px 0px;
+}
+
+.deskripsi h4{
+    margin-bottom: 2px;
+    font-weight: normal;
+    font-size: 20px;
+    color: #858585;
+}
+
+.deskripsi h1{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    font-size: 46px;
+}
+
+.foto{
+    float: left;
+    padding: 0px 75px;
+}
+
+.foto img{
+    width: 300px;
+}
+
+.deskripsi{
+    float: left;
+    width: 800px;
+    padding-left: 20px ;
+    margin-top: 120px;
+}
+
+.deskripsi p{
+    margin-top: 5px;
+    color: #858585;
+}
+.keahlian-wrapper{
+    text-align: center;
+}
+
+hr{
+    width: 60%;
+    color: #858585;
+    margin-bottom: 20px;
+    opacity: 25%;
+}
+
+.heading h1{
+    color: #284B63;
+    font-size: 42;
+    padding: 25px 0px;
+    margin: 0;
+}
+
+.keahlian-wrapper{
+    height: 600px;
+}
+
+.keahlian{
+    float: left;
+    width: 20%;
+}
+
+.keahlian img{
+    width: 100px;
+}
+
+.pendidikan-wrapper{
+    padding-bottom: 50px;
+}
+
+.tahun h4{
+    margin: 0px;
+    padding: 10px;
+    border: 4px solid #284B63;
+    display: inline-block;
+    border-radius: 20px;
+    color: #3C6E71;
+}
+
+.sekolah{
+    margin-left: 20px;
+    padding-left: 30px;
+    border-left: 2px solid #284B63;
+}
+
+.sekolah h2{
+    padding-top: 30px;
+    margin-bottom: 2px;
+    color: #284B63;
+}
+
+.sekolah h3{
+    padding-bottom:30px ;
+    margin-top: 0px;
+    font-weight: lighter;
+    color: #858585;
+}
+
+.cards{
+    width: 600px;
+    background-color: gainsboro;
+    border-radius: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.sertif-image{
+    float: left;
+}
+
+.sertif-image img{
+    width: 250px;
+    height: 150px;
+}
+
+.judul{
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+
+.judul h4{
+    margin: 0px;
+    color: #858585;
+}
+
+.judul h2{
+    margin: 0px;
+    font-size: 24px;
+    color: #284B63;
+}
+
