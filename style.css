@@ -171,8 +171,10 @@ hr{
 .card{
     padding: 10px;
     background-color: azure;
-    display: inline-block;
     border-radius: 10px;
+    width: 340px;
+    float: left;
+    margin-left: 40px;
 }
 
 .card img{
@@ -194,4 +196,5 @@ hr{
 .porto-desc p{
     color: #858585;
     font-size: 18px;
+    text-align: justify;
 }
