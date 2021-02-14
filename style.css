@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    margin: 0px;
 }
 
 body{
@@ -167,3 +168,30 @@ hr{
     color: #284B63;
 }
 
+.card{
+    padding: 10px;
+    background-color: azure;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.card img{
+    width: 320px;
+    height: 200px;
+}
+
+.porto-desc{
+    width: 320px;
+}
+
+.porto-desc h3{
+    text-align: center;
+    color: #284B63;
+    font-size: 24px;
+    padding: 10px 0px;
+}
+
+.porto-desc p{
+    color: #858585;
+    font-size: 18px;
+}
