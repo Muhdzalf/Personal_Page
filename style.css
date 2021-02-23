@@ -102,6 +102,10 @@ hr{
     width: 100px;
 }
 
+.tengah img{
+    padding-top: 27px;
+}
+
 .pendidikan-wrapper{
     padding-bottom: 50px;
 }
@@ -170,11 +174,11 @@ hr{
 
 .card{
     padding: 10px;
+    margin: 0 40px;
     background-color: azure;
     border-radius: 10px;
     width: 340px;
     float: left;
-    margin-left: 40px;
 }
 
 .card img{
