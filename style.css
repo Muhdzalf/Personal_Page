@@ -202,3 +202,20 @@ hr{
     font-size: 18px;
     text-align: justify;
 }
+
+/* Contact CSS */
+.contact img{
+    float: left;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.contact{
+    padding-bottom: 10px;
+}
+
+.contact-address{
+    height: 50px;
+    padding-top: 5px;
+}
+
